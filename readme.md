@@ -34,4 +34,5 @@
 ## Object : Collection of Related data written in key value pairs enclosed in a curly braces {} separated by comma
 ## 9. Differentiate null and undefined
 ### Ans.1.undefined means a variable has been declared but has not yet been assigned a value
-## 2.null is an assignment value, meaning that a. variable has been declared and given the value of null .
+## 2.null is an assignment value, meaning that a. variable has been declared and given the value of null
+## 10. ![screenshort](screenshort.png)
